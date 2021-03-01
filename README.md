@@ -1,2 +1,2 @@
 # TCNoHesaplama-AndroidStudio
-İlk 9 hanesi girilen TC Kimlik numarasının 10. ve 11. hanelerinin hesaplanması yapılmıştır.
+Özel bir algoritmaya sahip olan TC Kimlik numarasının ilk 9 hanesine göre 10. ve 11. hanelerinin hesaplanmasını yaptığım bu programı, Android Studio'da Java dilini kullanarak gerçekleştirdim.
